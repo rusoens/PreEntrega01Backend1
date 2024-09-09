@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "start": "node --watch PreEntregaUno/src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "name": "primer-preentrega",
+  "version": "1.0.0",
+  "description": "![alt text](image-1.png) ## Prueba de Productos ### En postman, consultar todos los productos: Metodo: GET y URL= http://localhost:8080/api/products ![alt text](image.png) ### Consultar producto por id: Metodo=GET y URL=http://localhost:8080/api/products/1 ![alt text](image-2.png) ### Agregar producto: Metodo=POST y URL=http://localhost:8080/api/products ![alt text](image-3.png) ### Actualizar producto: Metod=PUT y URL=http://localhost:8080/api/products/13 ![alt text](image-4.png)  ### Eliminación de producto: Metod=DELETE y URL=http://localhost:8080/api/products/13 ![alt text](image-5.png)",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
